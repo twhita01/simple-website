@@ -27,3 +27,11 @@ h1 {font-family: verdana; font-size: 35px; text-align: center; text-transform:up
 	color: #FFFFFF;
 }
 
+.topnav a:selected{
+	background-color:orange;
+	color: #FFFFFFF
+}
+
+hr.dotted {
+  border-top: 2px dotted orange;
+}
