@@ -2,6 +2,7 @@
 /* CSS Document */
 
 h1 {font-family: verdana; font-size: 35px; text-align: center; text-transform:uppercase}
+p {font-family: verdana; font-size: 14px}
 
 .topnav {
 	background-color: #52D0C2;
@@ -32,6 +33,6 @@ h1 {font-family: verdana; font-size: 35px; text-align: center; text-transform:up
 	color: #FFFFFFF
 }
 
-hr.dotted {
+hr.new1 {
   border-top: 2px dotted orange;
 }
