@@ -47,3 +47,7 @@ hr.new1 {
 	margin-top: 15px;
 	padding: 20px
 }
+
+body {
+	background-image:url("background.jpg");
+}
