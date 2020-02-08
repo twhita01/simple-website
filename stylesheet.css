@@ -4,14 +4,14 @@
 p {font-family: verdana; font-size: 14px}
 div {font-family: verdana; font-size: 14px}
 
-.topnav {
+.navbar {
 	background-color: #52D0C2;
 	overflow: hidden;
 	font-family: verdana; 
 	font-size: 14px;
 }
 
-.topnav a {
+.navbar a {
 	float: left;
 	color: midnightblue;
 	text-align: center;
@@ -19,22 +19,22 @@ div {font-family: verdana; font-size: 14px}
 	text-decoration: none;
 }
 
-.topnav a:hover {
+.navbar a:hover {
 	color:white
 }
 
-.topnav a:active{
+.navbar a:active{
 	background-color:orange;
 	color: #FFFFFF;
 }
 
-.topnav a:selected{
+.navbar a:selected{
 	background-color:orange;
 	color: #FFFFFFF
 }
 
 hr.new1 {
-  border-top: 2px dotted orange;
+	border-top: 2px dotted orange;
 }
 
 .header {
@@ -49,5 +49,12 @@ hr.new1 {
 }
 
 body {
-	background-image:url("background.jpg");
+	background-image:url("background copy.jpg");
+}
+
+.content {
+	background-color: #FFFFFF;
+	font-family: verdana;
+	font-size: 14px;
+	padding: 10px 10px;
 }
