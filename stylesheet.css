@@ -1,8 +1,8 @@
 @charset "UTF-8";
 /* CSS Document */
 
-h1 {font-family: verdana; font-size: 35px; text-align: center; text-transform:uppercase}
 p {font-family: verdana; font-size: 14px}
+div {font-family: verdana; font-size: 14px}
 
 .topnav {
 	background-color: #52D0C2;
@@ -20,7 +20,7 @@ p {font-family: verdana; font-size: 14px}
 }
 
 .topnav a:hover {
-	color:orange
+	color:white
 }
 
 .topnav a:active{
@@ -35,4 +35,15 @@ p {font-family: verdana; font-size: 14px}
 
 hr.new1 {
   border-top: 2px dotted orange;
+}
+
+.header {
+	background-color: #52D0C2;
+	font-family: verdana;
+	font-size: 35px;
+	text-align: center;
+	text-transform:uppercase;
+	font-weight: bold;
+	margin-top: 15px;
+	padding: 20px
 }
