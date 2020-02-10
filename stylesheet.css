@@ -9,6 +9,7 @@ div {font-family: verdana; font-size: 14px}
 	overflow: hidden;
 	font-family: verdana; 
 	font-size: 14px;
+	position: fixed;
 }
 
 .navbar a {
