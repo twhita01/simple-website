@@ -1,6 +1,11 @@
 @charset "UTF-8";
 /* CSS Document */
 
+*{padding: 0 0;
+margin: 0 0;
+list-style: none;
+text-decoration:none;}
+
 p {font-family: verdana; font-size: 14px}
 div {font-family: verdana; font-size: 14px}
 
@@ -9,7 +14,6 @@ div {font-family: verdana; font-size: 14px}
 	overflow: hidden;
 	font-family: verdana; 
 	font-size: 14px;
-	position: fixed;
 }
 
 .navbar a {
@@ -46,7 +50,7 @@ hr.new1 {
 	text-transform:uppercase;
 	font-weight: bold;
 	margin-top: 15px;
-	padding: 20px
+	padding: 20px;
 }
 
 body {
