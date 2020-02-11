@@ -90,4 +90,9 @@ body {
 	margin: 10px auto;
 } 
 
+.portrait{
+	display: block;
+	width: 300px;
+	margin: 10px auto;
+}
 
